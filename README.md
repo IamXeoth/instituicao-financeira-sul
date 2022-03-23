@@ -2,8 +2,8 @@
 
 Esse tipo de projeto é usado para reforçar o entendimento a cerca do assunto tratado, mesmo sendo coisas simples e consideradas básicas ou não, rever é essencial.
 
-*Muitas vezes tende a ser sobre algo especifico dentro de uma etapa de algum projeto. 
-*Todo o código desse tipo de "exercício" será comentado, ao contrário de projetos maiores.
+Muitas vezes tende a ser sobre algo especifico dentro de uma etapa de algum projeto. 
+Todo o código desse tipo de "exercício" será comentado, ao contrário de projetos maiores.
 
 # Instituição Financeira do Sul
 
