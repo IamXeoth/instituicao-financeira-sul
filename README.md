@@ -3,6 +3,7 @@
 Esse tipo de projeto é usado para reforçar o entendimento a cerca do assunto tratado, mesmo sendo coisas simples e consideradas básicas ou não, rever é essencial.
 
 *Muitas vezes tende a ser sobre algo especifico dentro de uma etapa de algum projeto. 
+*Todo o código desse tipo de "exercício" será comentado, ao contrário de projetos maiores.
 
 # Instituição Financeira do Sul
 
@@ -24,4 +25,4 @@ Aqui houve uma exploração na qual utilizou-se técnicas gráficas e resumos es
 
 ### Tratamento dos Dados
 
-Nessa terceira fase houve correções como outliers nos salários, duplicações em IDs, idades negativas tal como idades com valores altos, organização do banco em relação ao gênero agrupando as diferentes entradas como masculino e feminino, substituição de salários com NaN ****para a mediana e nomeação correta das colunas.
+Nessa terceira fase houve correções como outliers nos salários, duplicações em IDs, idades negativas tal como idades com valores altos, organização do banco em relação ao gênero agrupando as diferentes entradas como masculino e feminino, substituição de salários com NaN para a mediana e nomeação correta das colunas.
